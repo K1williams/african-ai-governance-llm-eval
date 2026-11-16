@@ -1,0 +1,62 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: audit__item_review_ledger.csv>index,id,country,class,desk_review,local_pdf_page_span_verified,external_second_reviewer_verified,change_or_note
+0,RWA-001,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+1,RWA-002,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+2,RWA-003,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+3,RWA-004,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+4,RWA-005,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+5,RWA-006,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+6,RWA-007,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+7,RWA-008,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+8,RWA-009,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+9,RWA-010,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+10,RWA-011,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+11,RWA-012,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+12,RWA-013,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+13,RWA-014,Rwanda,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+14,RWA-015,Rwanda,false_premise,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Source-limited false premise; do not infer real-world nonexistence from source silence.
+15,RWA-016,Rwanda,false_premise,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Source-limited false premise; do not infer real-world nonexistence from source silence.
+16,RWA-017,Rwanda,false_premise,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Premise incorrectly implied licensing-fee collection; now explicitly asks only what the policy reports.
+17,RWA-018,Rwanda,unanswerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,"Corpora-unanswerable; correct answer is absence of document evidence, not a universal negative."
+18,RWA-019,Rwanda,unanswerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,"Corpora-unanswerable; correct answer is absence of document evidence, not a universal negative."
+19,RWA-020,Rwanda,unanswerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,"Corpora-unanswerable; correct answer is absence of document evidence, not a universal negative."
+20,KEN-001,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+21,KEN-002,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+22,KEN-003,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+23,KEN-004,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+24,KEN-005,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+25,KEN-006,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+26,KEN-007,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+27,KEN-008,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+28,KEN-009,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+29,KEN-010,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+30,KEN-011,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+31,KEN-012,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,"""Lead"" in research was stronger than the assigned stakeholder-role text; wording corrected."
+32,KEN-013,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+33,KEN-014,Kenya,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+34,KEN-015,Kenya,false_premise,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Source-limited false premise; do not infer real-world nonexistence from source silence.
+35,KEN-016,Kenya,false_premise,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Source-limited false premise; do not infer real-world nonexistence from source silence.
+36,KEN-017,Kenya,false_premise,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,No policy evidence of universal compulsory exam; narrow answer to documented status.
+37,KEN-018,Kenya,unanswerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,"Corpora-unanswerable; correct answer is absence of document evidence, not a universal negative."
+38,KEN-019,Kenya,unanswerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,"False-premise prompt modified to clarify it asks about a March 2025 document, not the 2026 legal state."
+39,KEN-020,Kenya,unanswerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,"Corpora-unanswerable; correct answer is absence of document evidence, not a universal negative."
+40,NGA-001,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+41,NGA-002,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+42,NGA-003,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+43,NGA-004,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+44,NGA-005,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+45,NGA-006,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+46,NGA-007,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+47,NGA-008,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+48,NGA-009,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+49,NGA-010,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+50,NGA-011,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Original anchor may be split by PDF OCR; replaced with exact more stable source phrase.
+51,NGA-012,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+52,NGA-013,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+53,NGA-014,Nigeria,answerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Reference answer screened against official source content; exact PDF page/excerpt still requires validation.
+54,NGA-015,Nigeria,false_premise,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Source-limited false premise; do not infer real-world nonexistence from source silence.
+55,NGA-016,Nigeria,false_premise,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Source-limited false premise; do not infer real-world nonexistence from source silence.
+56,NGA-017,Nigeria,false_premise,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,Source-limited false premise; do not infer real-world nonexistence from source silence.
+57,NGA-018,Nigeria,unanswerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,"Corpora-unanswerable; correct answer is absence of document evidence, not a universal negative."
+58,NGA-019,Nigeria,unanswerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,"Corpora-unanswerable; correct answer is absence of document evidence, not a universal negative."
+59,NGA-020,Nigeria,unanswerable,ai_assisted_framing_review__primary_document_identity_confirmed,NO,NO,"Corpora-unanswerable; correct answer is absence of document evidence, not a universal negative."

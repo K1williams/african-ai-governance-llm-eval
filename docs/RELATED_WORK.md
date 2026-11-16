@@ -1,0 +1,8 @@
+# Related work (rapid scoping; not a systematic literature review)
+
+- Mathur, Rittner, Thakur, Schiff, Islam (2026), *Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA*, https://arxiv.org/abs/2603.24580 — directly related domain of AI-policy question answering; shows improved retrieval need not improve final answers. Prevents any claim that policy-grounded QA is novel.
+- Das, Abualhaija, Bianculli (2026), *How Much Do Legal RAG Systems Still Hallucinate?*, https://arxiv.org/abs/2608.14210 — attention to claim-level hallucination, severity and false-premise questions in legal corpora.
+- Magesh et al. (2024), *Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools*, https://arxiv.org/abs/2405.20362 — legal retrieval tool error taxonomy and evaluation design.
+- Zhao et al. (2026), *CanLegalRAGBench: Evaluating Retrieval-Augmented Generation on Canadian Case Law*, https://arxiv.org/abs/2605.30497 — expert-labeled legal questions and source-support evaluation.
+
+**Potential contribution, pending literature verification:** a transparent, small African AI-policy question set emphasizing *strategy versus legislation*, *proposal versus operational evidence*, and *absence of evidence versus evidence of absence*. Originality and generalisability not yet demonstrated. Full literature search, annotation audit, and methodology comparison are prerequisites for publication.

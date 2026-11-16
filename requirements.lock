@@ -1,0 +1,3 @@
+# Exact versions tested during AI-assisted local review on 2026-11-15
+requests==2.32.5
+PyMuPDF==1.26.7

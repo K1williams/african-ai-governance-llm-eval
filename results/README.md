@@ -1,0 +1,1 @@
+No empirical model results have been produced yet. This directory receives model_outputs.jsonl after actual API calls, review_sheet.csv after manual grading setup, and summary.json after all required ratings are filled. Never publish guessed or synthetic performance results as experimental findings.

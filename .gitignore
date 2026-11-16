@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+data/source_pdfs/
+results/*.jsonl
+results/*.csv
+results/*.json
+
+# Researcher working-copy inputs and approval ledger
+data/*.pdf
+results/
+!results/README.md

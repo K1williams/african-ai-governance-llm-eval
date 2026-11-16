@@ -1,0 +1,34 @@
+[
+  {
+    "id": "RWA",
+    "country": "Rwanda",
+    "title": "Rwanda National AI Policy",
+    "official_url": "https://rura.rw/fileadmin/Documents/ICT/Laws/Rwanda_national_Artificial_intelligence_Policy.pdf",
+    "document_classification": "official policy, not an AI penal statute",
+    "retrieved_for_review": "2026-11-15",
+    "sha256": null,
+    "primary_ministry_url": "https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Policies/Artificial_Intelligence_Policy.pdf",
+    "source_note": "Rwanda Utilities Regulatory Authority (RURA) host, ministry-developed policy; original MINICT PDF returned a 403 during independent online review."
+  },
+  {
+    "id": "KEN",
+    "country": "Kenya",
+    "title": "Kenya AI Strategy 2025–2030",
+    "official_url": "https://ict.go.ke/sites/default/files/2025-03/Kenya%20AI%20Strategy%202025%20-%202030.pdf",
+    "document_classification": "government strategy, launched March 2025",
+    "retrieved_for_review": "2026-11-15",
+    "sha256": null,
+    "superseded_url": "https://ict.go.ke/sites/default/files/2025-06/National-AI-Strategy_IMPLEMENTATION.pdf",
+    "source_note": "Official ministry PDF of the March 2025 strategy; previous path was unverified and may reference a different document."
+  },
+  {
+    "id": "NGA",
+    "country": "Nigeria",
+    "title": "Nigeria National AI Strategy (September 2025)",
+    "official_url": "https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf",
+    "document_classification": "government-published strategy; not itself a binding AI statute",
+    "retrieved_for_review": "2026-11-15",
+    "sha256": null,
+    "source_note": "NCAIR/NITDA government-hosted strategy PDF, September 2025."
+  }
+]
