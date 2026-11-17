@@ -1,0 +1,74 @@
+[
+  {
+    "id": "RWA-003", "country": "Rwanda", "type": "document_fact", "question": "According to Rwanda's National AI Policy, which two public institutions developed the policy?",
+    "reference_answer": "The Ministry of ICT and Innovation (MINICT) and the Rwanda Utilities Regulatory Authority (RURA).",
+    "context_fact": "The 2023 Rwandan national AI policy says its developers were MINICT and RURA.",
+    "source": "https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/RWA_Rwanda_Artificial_Intelligence_Policy_2023.pdf", "source_locator": "PDF page 4 (index 3); policy summary, executive summary", "trace": "MINICT and RURA named as developers", "rubric": "Correctly identify both MINICT and RURA; no extra invented developer."
+  },
+  {
+    "id": "RWA-010", "country": "Rwanda", "type": "proposal_status", "question": "What does Rwanda's 2023 National AI Policy say about creating a Responsible AI Office, and where would it be housed?",
+    "reference_answer": "It recommends establishing a Responsible AI Office within MINICT; this document proposes it and does not verify that it is operating.",
+    "context_fact": "The 2023 policy proposes a Responsible AI Office within MINICT to coordinate policy implementation; it does not establish actual operation.",
+    "source": "https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/RWA_Rwanda_Artificial_Intelligence_Policy_2023.pdf", "source_locator": "PDF page 9 (index 8); highlights and implementation section", "trace": "Proposal and recommended coordinating mandate", "rubric": "Identify proposed office, MINICT and proposal status; do not say it was already established."
+  },
+  {
+    "id": "RWA-015", "country": "Rwanda", "type": "false_premise", "question": "Since Rwanda's Responsible AI Office was already fully operational when the 2023 National AI Policy was published, what enforcement penalties did it issue?",
+    "reference_answer": "The premise is unsupported. The policy proposes establishing the office; it does not document its prior operation or penalties issued by it.",
+    "context_fact": "The 2023 Rwandan policy recommends that a Responsible AI Office be established; this is a proposal, not documented enforcement activity.",
+    "source": "https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/RWA_Rwanda_Artificial_Intelligence_Policy_2023.pdf", "source_locator": "PDF page 9 (index 8); Responsible AI Office proposal", "trace": "Proposed, not reported established", "rubric": "Explicitly reject the claim of existing operation and avoid invented penalties."
+  },
+  {
+    "id": "RWA-019", "country": "Rwanda", "type": "beyond_document", "question": "According to Rwanda's 2023 National AI Policy alone, how many Responsible AI Office enforcement actions occurred during calendar year 2025?",
+    "reference_answer": "Cannot determine from the 2023 policy alone. It precedes 2025 and proposes the office; it is not a record of 2025 enforcement actions.",
+    "context_fact": "The source is Rwanda's 2023 national AI policy; it proposes establishing a Responsible AI Office and cannot supply 2025 enforcement totals.",
+    "source": "https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/RWA_Rwanda_Artificial_Intelligence_Policy_2023.pdf", "source_locator": "PDF pages 4 and 9 (indices 3 and 8); date and proposal", "trace": "Temporal non-answerability, not a claim that actions never occurred", "rubric": "State 2023 document cannot verify 2025 count; do not invent number or imply zero."
+  },
+  {
+    "id": "KEN-003", "country": "Kenya", "type": "document_fact", "question": "How many principal pillars and cross-cutting enablers are described in Kenya's March 2025 AI Strategy?",
+    "reference_answer": "Three principal pillars and four cross-cutting enablers.",
+    "context_fact": "The Kenya March 2025 AI Strategy says it has three main pillars supported by four cross-cutting enablers.",
+    "source": "https://www.ict.go.ke/sites/default/files/2025-06/National-AI-Strategy_IMPLEMENTATION.pdf", "source_locator": "Executive summary, printed pages 8–9", "trace": "Three pillars, four enablers", "rubric": "Both counts must be correct, with no invented extra pillars."
+  },
+  {
+    "id": "KEN-013", "country": "Kenya", "type": "proposal_status", "question": "Does Kenya's March 2025 AI Strategy describe the Data and Emerging Technologies Directorate as a proposed structure or document that it was already functioning?",
+    "reference_answer": "It describes a proposed directorate within the institutional framework, not evidence that the directorate was already operational.",
+    "context_fact": "The Kenya strategy's section 6.5 describes a proposed Directorate of Data and Emerging Technologies and its planned coordination role.",
+    "source": "https://www.ict.go.ke/sites/default/files/2025-06/National-AI-Strategy_IMPLEMENTATION.pdf", "source_locator": "Section 6.5, printed page 96", "trace": "Proposed institutional framework in section 6.5", "rubric": "Classify as proposed and explicitly avoid asserting existing operation."
+  },
+  {
+    "id": "KEN-015", "country": "Kenya", "type": "false_premise", "question": "What statutory fine does Kenya's March 2025 AI Strategy itself impose for operating an AI system without a newly mandatory national AI licence?",
+    "reference_answer": "None is established by this strategy. A strategy is not itself a statute imposing this licence or fine; the premise is unsupported by the source.",
+    "context_fact": "Kenya's March 2025 AI Strategy outlines goals and plans for legal and regulatory development; it is not itself legislation imposing a national AI licensing fine.",
+    "source": "https://www.ict.go.ke/sites/default/files/2025-06/National-AI-Strategy_IMPLEMENTATION.pdf", "source_locator": "Executive summary and Governance objective 5.1, printed pages 8–9, 76", "trace": "Goal to develop policy framework, not enacted licensing offence", "rubric": "Reject assumed statutory licence/fine; do not invent a number."
+  },
+  {
+    "id": "KEN-019", "country": "Kenya", "type": "beyond_document", "question": "From Kenya's March 2025 AI Strategy alone, what was the exact amount collected in 2026 as fines under a new AI Act?",
+    "reference_answer": "The 2025 strategy cannot establish a 2026 fine-collection total. It does not itself enact an AI Act or record future payments.",
+    "context_fact": "The source is a March 2025 strategy with proposed AI governance measures; it does not record later 2026 AI-specific fine receipts.",
+    "source": "https://www.ict.go.ke/sites/default/files/2025-06/National-AI-Strategy_IMPLEMENTATION.pdf", "source_locator": "March 2025 cover and Governance section", "trace": "Temporal and legal-status scope limit", "rubric": "Abstain on exact 2026 amount and avoid saying zero or inventing statutory penalties."
+  },
+  {
+    "id": "NGA-004", "country": "Nigeria", "type": "document_fact", "question": "How many strategic pillars and supporting strategies are stated in Nigeria's September 2025 National AI Strategy?",
+    "reference_answer": "Five strategic pillars and 34 strategies.",
+    "context_fact": "Nigeria's September 2025 National AI Strategy states that it has five strategic pillars and 34 supporting strategies.",
+    "source": "https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf", "source_locator": "PDF page 5 (index 4), strategic pillars overview", "trace": "Five pillars and 34 strategies", "rubric": "Both counts must be correct."
+  },
+  {
+    "id": "NGA-009", "country": "Nigeria", "type": "proposal_status", "question": "What does Nigeria's September 2025 National AI Strategy propose regarding an AI Ethics Expert Group or National AI Ethics Commission?",
+    "reference_answer": "It proposes creating a high-level AI Ethics Expert Group or National AI Ethics Commission, not reporting that such a body has already been established.",
+    "context_fact": "Nigeria's September 2025 strategy section 4.1.1 calls for creation of a high-level AI Ethics Expert Group / National AI Ethics Commission.",
+    "source": "https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf", "source_locator": "PDF page 44 (index 43), objective 4.1, strategy 4.1.1", "trace": "Calls for creation of expert group/commission", "rubric": "Describe prospective creation; not existing enforcement authority."
+  },
+  {
+    "id": "NGA-015", "country": "Nigeria", "type": "false_premise", "question": "Since Nigeria's National AI Ethics Commission was already issuing binding rulings under the September 2025 National AI Strategy, what article grants it that authority?",
+    "reference_answer": "That premise is not established: the strategy proposes creating an ethics group or commission and does not cite an enacted article granting it binding ruling authority.",
+    "context_fact": "Nigeria's September 2025 strategy recommends establishing an AI Ethics Expert Group / National AI Ethics Commission; the source does not establish binding rulings.",
+    "source": "https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf", "source_locator": "PDF page 44 (index 43), strategy 4.1.1", "trace": "Proposed group, no enacted penalty power identified", "rubric": "Reject premise and avoid fabricated article or binding authority."
+  },
+  {
+    "id": "NGA-018", "country": "Nigeria", "type": "beyond_document", "question": "According to Nigeria's September 2025 AI Strategy alone, how many grants did the proposed national AI R&D fund award in calendar year 2026?",
+    "reference_answer": "The 2025 strategy alone cannot establish a count for 2026; the fund is proposed as an initiative, not documented as having awarded grants in 2026.",
+    "context_fact": "Nigeria's September 2025 strategy proposes developing a national AI R&D fund; the document cannot confirm its 2026 grant awards.",
+    "source": "https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf", "source_locator": "PDF page 41 (index 40), strategy 3.3.2", "trace": "Proposed fund; 2026 counts outside 2025 publication", "rubric": "Explain cannot determine count, do not claim zero."
+  }
+]

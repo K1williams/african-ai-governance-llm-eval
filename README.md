@@ -1,10 +1,12 @@
 # AI Policy Grounding — African Governance Reliability Pilot
 
-**Status: v0.2 source-screened research instrument, with AI-assisted desk-review and corrected citations; original official PDF page-span checks, external second review, and live model study remain pending. NOT a validated benchmark or completed paper.** 15 November 2026.
+**Status: v0.3 repository: v0.2 full 60-item source-screened research instrument plus 12-item executable open-weight feasibility pilot, with AI-assisted desk-review and corrected citations; original official PDF page-span checks, external second review, and live model study remain pending. NOT a validated benchmark or completed paper.** 15 November 2026.
 
 **Research question.** To what extent does providing verified official national AI policy excerpts, rather than no documents, change the factual accuracy, evidential support and responsible expression of uncertainty of one language model answering questions about national AI governance in selected African countries?
 
 ## What is here
+
+- **New in v0.3:** [12-item source-traceable open-weight pilot](pilot/README.md) with actual GitHub Actions model inference (not a pretend model run). [Pilot source audit](pilot/SOURCE_AUDIT.md). Raw observed responses are published only if the workflow genuinely completes; no human-validated model accuracy is claimed.
 
 - 60 preliminary questions: 20 each for Rwanda (RWA), Kenya (KEN), Nigeria (NGA).
 - 42 document-answerable, 9 false-premise, and 9 corpus-unanswerable questions.
